@@ -1,5 +1,4 @@
 AI & ML Jobs Market Analysis Dashboard
-
 Project Overview
 
 This project analyzes the Artificial Intelligence and Machine Learning
